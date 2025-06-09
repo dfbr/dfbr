@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dfbr
-- 👀 I’m interested in hobbyist programming
-- 🌱 I’m currently learning javascript, python, life
-- 💞️ I’m not looking to collaborate
+- 👀 I’m interested in information security, Powershell and Python programming
+- 🌱 I’m currently learning life
+- 💞️ I’m very happy to collaborate
 - 📫 How to reach me come to Norway
 
 <!---
